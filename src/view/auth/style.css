@@ -1,0 +1,8 @@
+.login-page{
+  background-color: #ffffff;
+}
+.login-page .ant-card{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
